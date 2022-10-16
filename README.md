@@ -1,1 +1,0 @@
-# masters3-it-proj-mgmt
