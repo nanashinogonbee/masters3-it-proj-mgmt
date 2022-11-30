@@ -18,7 +18,7 @@
 
 ## Вариативные задания
 
-ВСР1 - [доклад](https://github.com/nanashinogonbee/masters3-it-proj-mgmt/blob/main/vartask1.docx), [презентация](https://github.com/nanashinogonbee/masters3-it-proj-mgmt/blob/main/vartask1.pptx)
+ВСР 1 - [доклад](https://github.com/nanashinogonbee/masters3-it-proj-mgmt/blob/main/vartask1.docx), [презентация](https://github.com/nanashinogonbee/masters3-it-proj-mgmt/blob/main/vartask1.pptx)
 
 [ВСР 2](https://github.com/nanashinogonbee/masters3-it-proj-mgmt/blob/main/vartask2.md)
 
